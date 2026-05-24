@@ -77,7 +77,7 @@
     "drizzle-orm": "0.44.7",
     "prompts": "2.4.2",
     "to-snake-case": "1.0.0",
-    "uuid": "9.0.0"
+    "uuid": "14.0.0"
   },
   "devDependencies": {
     "@payloadcms/eslint-config": "workspace:*",
